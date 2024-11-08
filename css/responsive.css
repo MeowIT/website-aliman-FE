@@ -23,7 +23,7 @@
 .reg-form input {
 	width: 345px;
 }
-.teach-area.pb-150 {
+.teach-area  {
 	padding-bottom: 140px;
 }
 .testimonial-active .slick-arrow {
@@ -194,16 +194,10 @@
 .coming-time .time-count {
 	margin-right: 20px;
 }
-.teach-area.pt-150 {
+.teach-area {
 	padding-top: 140px;
 }
-.teach-video {
-	text-align: center;
-	margin-top: 50px;
-}
-.teach-video img {
-	width: unset;
-}
+
 .single-testimonial {
 	margin: 0 40px;
 	margin-bottom: 35px;
@@ -257,7 +251,7 @@
 .about-content.pl-30 {
 	padding-left: 0;
 }
-.about-area.pb-150 {
+.about-area {
 	padding-bottom: 145px;
 }
 .speech-content p {
@@ -315,7 +309,7 @@
 .post__tag ul li {
 	margin-right: 10px;
 }
-.blog-details-area.pt-150 {
+.blog-details-area  {
 	padding-top: 145px;
 }
 .s-features-icon.mb-10 {
@@ -372,7 +366,7 @@
 	display: block;
 	margin-right: 0;
 }
-.teach-area.pt-150 {
+.teach-area {
 	padding-top: 140px;
 }
 .teach-list ul li {
@@ -382,9 +376,7 @@
 .teach-icon {
 	margin-bottom: 15px;
 }
-.teach-video {
-	margin-top: 50px;
-}
+
 .single-testimonial {
 	margin: 0;
 	margin-bottom: 35px;
@@ -541,7 +533,7 @@
 .about-content.pl-30 {
 	padding-left: 0;
 }
-.about-area.pb-150 {
+.about-area {
 	padding-bottom: 140px;
 }
 .speech-content p {
@@ -657,7 +649,7 @@
 	font-size: 20px;
 	margin-bottom: 15px;
 }
-.blog-details-area.pt-150 {
+.blog-details-area  {
 	padding-top: 145px;
 }
 .details__content h2 {
