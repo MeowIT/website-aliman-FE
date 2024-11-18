@@ -315,7 +315,9 @@
 .s-features-icon.mb-10 {
 	margin-bottom: 0;
 }
-
+.logo-img{
+	width: 80%;
+}
 }
 
 
@@ -696,7 +698,12 @@
 .s-features-icon.mb-10 {
 	margin-bottom: 0;
 }
-
+.icons{
+	display: none;
+}
+.logo-img{
+	width: 100%;
+}
 }
 
 /* Large Mobile :576px. */
@@ -879,4 +886,9 @@
 	font-size: 24px;
 }
 
+}
+@media screen and (min-width: 1033px) and (max-width: 1050px) {
+	.logo-img{
+		width: 30rem;
+	}
 }

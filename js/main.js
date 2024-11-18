@@ -26,6 +26,17 @@ $(window).on('scroll', function () {
 		$("#header-sticky").addClass("sticky-menu");
 	}
 });
+function checkScreenSize() {
+  const symbol = document.getElementById("dropdownSymbol");
+  if (window.innerWidth <= 768) {
+    symbol.style.display = "none";
+  } else {
+    symbol.style.display = "inline";
+  }
+}
+
+window.addEventListener("resize", checkScreenSize);
+window.addEventListener("load", checkScreenSize);
 
 
 // data - background
